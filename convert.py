@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+'''
+A short Python script to convert markdown files to html. Requires `markdown`
+from PyPI or `python3-markdown` from XBPS 
+'''
+
+
 from sys import argv
 
 from markdown import markdown
