@@ -1,3 +1,0 @@
-# YAT
-
-hello world
